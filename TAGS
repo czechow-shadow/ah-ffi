@@ -1,0 +1,44 @@
+
+src/PCREcompile.hs,303
+module PCREcompile PCREcompile0,1
+data PCREPCRE14,15
+data PCREExtraPCREExtra15,16
+data Regex Regex26,27
+data Regex = Regex Regex26,27
+compile compile36,37
+compile compile37,38
+capturedCount capturedCount98,99
+capturedCount capturedCount99,100
+match match108,109
+match match109,110
+
+src/Lib.hs,186
+module Lib Lib0,1
+fastSin fastSin15,16
+fastSin fastSin16,17
+go go28,29
+go go29,30
+go2 go235,36
+go2 go236,37
+go' go'41,42
+go' go'42,43
+go'' go''51,52
+go'' go''52,53
+
+src/Protolude/Extended.hs,271
+module Protolude.Extended Protolude.Extended0,1
+mapLeft mapLeft9,10
+mapLeft mapLeft10,11
+qtn qtn13,14
+qtn qtn14,15
+duplicates duplicates16,17
+duplicates duplicates17,18
+hPutText hPutText23,24
+hPutText hPutText24,25
+unzip unzip26,27
+unzip unzip27,28
+
+app/Main.hs,52
+module Main Main0,1
+main main6,7
+main main7,8

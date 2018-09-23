@@ -1,0 +1,3 @@
+
+double mysin(double);
+
