@@ -33,3 +33,5 @@ does it print rethrown exceptions? -> I do not think so
 +RTS -s -hc -xt -L256 -p -RTS
 
 +RTS -s -hm -xt -L256 -p -RTS
+
+http://neilmitchell.blogspot.co.uk/2015/09/detecting-space-leaks.html
