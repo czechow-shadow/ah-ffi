@@ -30,3 +30,6 @@ does it print rethrown exceptions? -> I do not think so
 `-l` - log events to event log
 
 
++RTS -s -hc -xt -L256 -p -RTS
+
++RTS -s -hm -xt -L256 -p -RTS
